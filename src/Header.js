@@ -147,4 +147,6 @@ const HeaderNavItems = styled.div `
 `
 const CartCount = styled.div `
 padding-left: 4px;
+font-weight: 700;
+color: #f08804;
 `
